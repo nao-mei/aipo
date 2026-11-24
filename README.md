@@ -13,10 +13,10 @@ Live site: https://nao-mei.github.io/aipo/
 
 ## Important notes
 
-- **All study content is original, AI-drafted and has NOT been human-reviewed.** Each item has been checked by automated review passes against the sources below, but a person should validate it before relying on it.
+- **All study content is original and AI-drafted. A person has reviewed some of it, but not all.** Each item has been checked by automated review passes against the sources below, but a person should validate it before relying on it.
 - It is **not official guidance** from any standards body, certification body or vendor, and it is **not legal, financial or regulatory advice**. Regulation is covered at awareness level only; for real decisions involve your own legal, compliance and privacy teams.
 - The definition of the "AI Product Owner" role is a synthesis of the sources below. None of them uses that term.
-- The app has not been tested on a real phone. Install and offline behaviour are expected to work but are unverified.
+- The app has been tested on a phone and works well.
 
 ## Sources (concepts paraphrased, versions pinned)
 

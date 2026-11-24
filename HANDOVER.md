@@ -37,10 +37,10 @@ Each content file sets `window.AIPO.*`. Questions are `{ id, domain, type: "sing
 
 ## Content status and open items
 
-- Every item is `reviewed:false`. Automated reviews were run per domain and their fixes applied, but no human has validated the content.
+- Every item is `reviewed:false`. Automated reviews were run per domain and their fixes applied, but a person has reviewed only some of the content.
 - Known gaps: domains 1, 4, 6 and 8 have one scenario each (17 to 20% of their questions; the target was 25 to 30%). The Scrum.org Evidence-Based Management Guide and the Microsoft guidelines paper were not read from the originals; only concept names and counts are used. The local copy of the Google guidebook may be an older edition than the live one.
 - **Re-review triggers:** NIST publishing a revised AI RMF or an updated Playbook (subcategory IDs and wording may change); a new edition of the Scrum Guide; any change to the Google guidebook or the Evidence-Based Management Guide.
-- Not tested on a real phone: install to home screen, offline use after first load.
+- Tested on a phone by the owner and works well.
 
 ## Testing checklist after any change
 
