@@ -1,7 +1,7 @@
 /* AI PO Coach: UI and routing. Local only. No network use. */
 (function () {
   "use strict";
-  var BUILD = "20261125.1236";
+  var BUILD = "20261126.1123";
   var KEY = "aipocoach.v1", THEME_KEY = "aipocoach.theme";
   var A = window.AIPO, L = window.Logic, M = window.Mascot;
   var DOMAINS = A.domains;

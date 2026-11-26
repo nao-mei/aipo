@@ -1,5 +1,5 @@
 /* Cache-first service worker. The version is stamped by scripts/build.js. */
-var VERSION = "20261125.1236";
+var VERSION = "20261126.1123";
 var CACHE = "aipo-coach-" + VERSION;
 var FILES = ["./","index.html","app.js","logic.js","mascot.js","manifest.webmanifest","content/data.js","content/domains.js","content/eval.js","content/frame.js","content/hax.js","content/intro.js","content/ops.js","content/po.js","content/risk.js","content/use.js","icons/icon-180.png","icons/icon-192.png","icons/icon-512.png","icons/icon-maskable-512.png","icons/icon.svg"];
 
